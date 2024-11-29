@@ -3,8 +3,8 @@
 Contributors: AF themes
 Requires at least: 4.0
 Requires PHP: 5.6
-Tested up to: 6.6
-Stable tag: 1.0.1
+Tested up to: 6.7
+Stable tag: 1.0.2
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: news, blog, entertainment, one-column, two-columns, left-sidebar, right-sidebar, custom-background, custom-menu, featured-images, full-width-template, custom-header, translation-ready, theme-options, threaded-comments
@@ -19,7 +19,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 HeadNews is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
 Underscores is distributed under the terms of the GNU GPL v2 or later.
 
-HeadNews is a child theme of "Newsphere". Newsphere Theme is licensed under the GPL v2. Copyright 2023 AF themes
+HeadNews is a child theme of "Newsphere". Newsphere Theme is licensed under the GPL v2. Copyright 2024 AF themes
 HeadNews is distributed under the terms of the GNU GPL v2 or later.
 
 == Description ==
